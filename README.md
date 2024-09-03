@@ -1,0 +1,1 @@
+Recreating a shopping cart, while the initial code works well procedurally, transitioning to Object Oriented Programming provides a solid foundation for building more complex, scalable, and maintainable application. It’s especially useful as the project grows in size and complexity, or if the project plan to extend the functionality in the future.
